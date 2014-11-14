@@ -53,7 +53,7 @@
 
 <h3>(1)conf.json文件</h3>
 
-<p><code>json
+<p><code>
 {
     "cmdPath": "cmd", 
     "dataPath": "data", 
@@ -76,7 +76,7 @@
 
 <h3>(2)cmd目录下的命令文件</h3>
 
-<p><code>json
+<p><code>
 //(示例) MIFI统计操作
 {
     "cmdType": "TMC",
