@@ -36,9 +36,9 @@ You can just read [Quick Start](#quickstart).
     "cmdPath": "cmd", 
     "dataPath": "data", 
     "targetPath": "target",
-  "targetName": "report",
-  "tamplatePath":"tamplate\\ReportTamplate.xlsx",
-  "cmdNameListPath":"configuration\\cmdNames.json"
+    "targetName": "report",
+    "tamplatePath":"tamplate\\ReportTamplate.xlsx",
+    "cmdNameListPath":"configuration\\cmdNames.json"
 }
 ```
 >* *cmdPath:*          配置存放命令文件的**文件夹路径** (默认为cmd\\*)
