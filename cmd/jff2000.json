@@ -1,0 +1,17 @@
+//积分:2000分
+{
+	//操作类型:TotalMatchCount(TMC)
+	"cmdType": "TMC",
+	//需要统计的表头名字
+	"headerName": "备注",
+	//需要匹配的内容
+	"content": "批次:积分兑换通用电子券（常态化）, 档次:2000积分兑换30元通用电子券",
+	//需要取出嵌入的内容(暂时废弃)
+	"embedContent":"",
+	//互斥列头
+	"mutexHeader":"",
+	//互斥内容
+	"mutexContent":"",
+	//导出到模板的坐标列(大写字母)
+	"targetY": "P"
+}

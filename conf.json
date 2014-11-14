@@ -1,0 +1,14 @@
+{
+	//操作命令脚本路径
+    "cmdPath": "cmd", 
+    //源数据文件夹路径
+    "dataPath": "data", 
+	//导出文件存放路径
+    "targetPath": "target",
+	//导出文件名称
+	"targetName": "report",
+	//报表模板路径
+	"tamplatePath":"tamplate\\ReportTamplate.xlsx",
+	//cmd方法名映射
+	"cmdNameListPath":"configuration\\cmdNames.json"
+}

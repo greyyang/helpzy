@@ -1,0 +1,17 @@
+//统计手机
+{
+	//操作类型:TotalMatchCount(TMC)
+	"cmdType": "TMC",
+	//需要统计的表头名字
+	"headerName": "备注",
+	//需要匹配的内容
+	"content": "批次:4G购机送流量, 档次:4G购机送流量|批次:IPHONE购机送流量, 档次:购IPHONE送流量3个月",
+	//需要取出嵌入的内容(暂时废弃)
+	"embedContent":"",
+	//互斥列头
+	"mutexHeader":"",
+	//互斥内容
+	"mutexContent":"",
+	//导出到模板的坐标列(大写字母)
+	"targetY": "X"
+}
