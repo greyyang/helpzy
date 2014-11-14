@@ -1,4 +1,4 @@
-<h2># HelpZY 使用指南</h2>
+<h2>HelpZY 使用指南</h2>
 
 <p>You can just read <a href="#quickstart">Quick Start</a>.</p>
 
