@@ -36,9 +36,9 @@ You can just read [Quick Start](#quickstart).
     "cmdPath": "cmd", 
     "dataPath": "data", 
     "targetPath": "target",
-	"targetName": "report",
-	"tamplatePath":"tamplate\\ReportTamplate.xlsx",
-	"cmdNameListPath":"configuration\\cmdNames.json"
+  "targetName": "report",
+  "tamplatePath":"tamplate\\ReportTamplate.xlsx",
+  "cmdNameListPath":"configuration\\cmdNames.json"
 }
 ```
 >* *cmdPath:*          配置存放命令文件的**文件夹路径** (默认为cmd\\*)
@@ -51,13 +51,13 @@ You can just read [Quick Start](#quickstart).
 ```json
 //(示例) MIFI统计操作
 {
-	"cmdType": "TMC",
-	"headerName": "备注",
-	"content": "批次:武汉高校MIFI活动, 档次:预存300送MIFI|批次:武汉高校MIFI活动, 档次:预存180送MIFI",
-	"embedContent":"",
-	"mutexHeader":"",
-	"mutexContent":"",
-	"targetY": "Y"
+  "cmdType": "TMC",
+  "headerName": "备注",
+  "content": "批次:武汉高校MIFI活动, 档次:预存300送MIFI|批次:武汉高校MIFI活动, 档次:预存180送MIFI",
+  "embedContent":"",
+  "mutexHeader":"",
+  "mutexContent":"",
+  "targetY": "Y"
 }
 ```
 #### **cmdType:**
